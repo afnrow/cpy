@@ -36,6 +36,6 @@ Restart=always
 WantedBy=graphical-session.target
 ```
 # Rofi/Wayland
-You can get all of your copies by rendering it via `cpy pick` it will open a rofi menu (you can change it to wofi from the main.rs file)
+You can get all of your copies by rendering it via `~/.cargo/bin/cpy pick` it will open a rofi menu (you can change it to wofi from the main.rs file)
 # License
-This software is licensed under the GPL License , Check the `License` File for more information
+This software is licensed under the GPLv3 License , Check the `License` File for more information
