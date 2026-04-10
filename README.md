@@ -15,7 +15,7 @@ A simple, high-performance clipboard manager for Wayland written in Rust.
 
 ### Building the Project
 ```bash
-git clone [https://github.com/afnrow/cpy.git]
+git clone https://github.com/afnrow/cpy.git
 cd cpy
 cargo install --path .
 ```
